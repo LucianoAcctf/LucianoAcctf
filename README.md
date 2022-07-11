@@ -4,17 +4,13 @@
 
 ### 🔭 I’m currently working on <label style="color: #00995D">Unimed BH</label> as trainee
 
-### 📚 Now I’m learning
+#### 📚 Now I’m learning
 
-#### Programming languages
+##### Programming languages
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
-#### Cloud
-  
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-
-#### Plataform
+##### Plataform
 
 ![ServiceNow](https://img.shields.io/badge/-ServiceNow-75aa96?style=for-the-badge)
 
