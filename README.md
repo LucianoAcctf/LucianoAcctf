@@ -2,13 +2,7 @@
 
 ## Hi, I'm Luciano, welcome to my GitHub!
 
-### 🔭 I’m currently working on <label style="color: #00995D">Unimed BH</label> as trainee
-
-#### 📚 Now I’m learning
-
-##### Programming languages
-
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+### 🔭 I’m currently working on <label style="color: #00995D">Unimed BH</label> as developer
 
 ##### Plataform
 
@@ -17,7 +11,6 @@
 ### 📫 How to find me: 
   
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luciano-augusto-do-carmo-costa-trindade-ferreira-4b671a221/)
-
 
 ### 🚧 Languages, technologies, services and tools that I use:
 
